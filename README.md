@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agustin N. Fiordelisi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" style="max-width:100%;">, I'm Agustin N. Fiordelisi</h1>
 <h3 align="center">Software Develper, who loves Spring, Angular and Node.js</h3>
 
 <h3 align="left">Connect with me:</h3>
