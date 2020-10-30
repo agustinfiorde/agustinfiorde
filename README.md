@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin N. Fiordelisi</h1>
-<h3 align="center">Software Develper, who love Spring, Angular and Node.js</h3>
+<h3 align="center">Software Develper, who loves Spring, Angular and Node.js</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
